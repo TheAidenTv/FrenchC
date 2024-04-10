@@ -2,6 +2,19 @@
 
 Bienvenue to the ultimate project for those who want to add a little "je ne sais quoi" to their coding experience! This is a project to recreate all of the classic C commands but with a French twist. Because why write 'printf' when you can write 'imprimerf'?
 
+# Example Code
+
+A Salut, Monde! program which is equivalent to the English Hello, World! program
+
+````c
+vide principal() {
+    
+    caractère *msg = "Salut, Monde!";
+
+    imprimerf("%s\n", msg);
+}
+````
+
 # How to Use?
 
 It's as easy as enjoying a croissant on a Sunday morning!
