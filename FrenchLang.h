@@ -7,6 +7,7 @@
 #define longueur strlen
 #define allocm malloc
 #define allocc calloc
+#define réalloc realloc
 #define places puts
 #define placec putc
 #define obtenirs gets
@@ -14,6 +15,7 @@
 #define fouvrir fopen
 #define ffermer fclose
 #define taillede sizeof
+#define libérer free
 
 // control flow:
 #define si if
@@ -25,7 +27,7 @@
 #define pendant while
 #define interrupteur switch
 #define cas case
-#define defaut default
+#define défaut default
 #define retourner return 
 #define continue continuer
 #define arrêt break
