@@ -13,6 +13,7 @@
 #define obtenirc getc
 #define fouvrir fopen
 #define ffermer fclose
+#define taillede sizeof
 
 // control flow:
 #define si if
