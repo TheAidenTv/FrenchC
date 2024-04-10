@@ -1,31 +1,35 @@
+// functions:
 #define imprimerf printf 
+#define principal main
 #define scanf scanf
+#define longueur strlen
+
+// control flow:
 #define si if
 #define sinon else
 #define pour for
 #define tantque while
 #define faire do
+#define pour for
+#define pendant while
 #define interrupteur switch
 #define cas case
 #define defaut default
 #define retourner return 
-#define inclure include
-#define caractère char
-#define ent int
-#define flottant float
+#define continue continuer
+#define arrêt break
+#define allerà goto
+
+// data types:
 #define double double 
-#define principal main
 #define vide void
-#define longueur strlen
-#define pour for
-#define pendant while
 #define vrai true
 #define faux false
 #define signé signed
 #define nonsigné unsigned
 #define déftype typedef
 #define court short
-#define allerà goto
 #define énum enum
-#define continue continuer
-#define arrêt break
+#define caractère char
+#define ent int
+#define flottant float
