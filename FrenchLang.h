@@ -1,8 +1,18 @@
 // functions:
 #define imprimerf printf 
+#define fimprimerf fprintf 
+#define simprimerf sprintf 
 #define principal main
 #define scanf scanf
 #define longueur strlen
+#define allocm malloc
+#define allocc calloc
+#define places puts
+#define placec putc
+#define obtenirs gets
+#define obtenirc getc
+#define fouvrir fopen
+#define ffermer fclose
 
 // control flow:
 #define si if
