@@ -26,6 +26,6 @@
 #define déftype typedef
 #define court short
 #define allerà goto
-#define énum enumf
+#define énum enum
 #define continue continuer
 #define arrêt break
