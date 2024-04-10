@@ -21,3 +21,11 @@
 #define pendant while
 #define vrai true
 #define faux false
+#define signé signed
+#define nonsigné unsigned
+#define déftype typedef
+#define court short
+#define allerà goto
+#define énum enumf
+#define continue continuer
+#define arrêt break
